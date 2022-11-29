@@ -1,0 +1,6 @@
+Name: Javid 
+Surname: Ismailzada
+Age: 22
+School: Ankara Turk Liseyum
+Education: Code Academy (Full Stack Programmer)
+From: Shaki
